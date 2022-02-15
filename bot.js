@@ -154,7 +154,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('Amru Ser ' + config.WORKTYPE + ' Now 💙'));
+            chalk.green.bold('itz-me-maluttyz' + config.WORKTYPE + ' Now 💙'));
           // thanks to afnanplk
 	    if (config.LANG == 'EN' || config.LANG == 'ML') {
                 await git.fetch();
@@ -277,7 +277,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                         } catch (error) {
                             if (config.NOLOG === 'off') {
                                 
-                                await conn.sendMessage(conn.user.jid, '*~_________~ AMRU SER ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ itz-me-maluttyz~______~*' +
                                     '\n*🌀 Follow this page other wise chance to get erorr: https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z*' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
